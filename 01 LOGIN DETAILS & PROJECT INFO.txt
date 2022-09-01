@@ -1,0 +1,9 @@
+**Database Name: ecom_store**
+
+**Developed by Mohamed Orra**
+
+
+**Admin Login Details**
+
+Username: admin@mail.com
+Password: Password@123
